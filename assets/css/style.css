@@ -342,11 +342,6 @@ main {
     gap: 15px;
 }
 
-.avatar-box {
-    background: var(--bg-gradient-onyx);
-    border-radius: 20px;
-}
-
 .img-rounded {
     border-radius: 10px;
 }
@@ -1381,11 +1376,6 @@ textarea.form-input::-webkit-resizer {
 
     .sidebar-info {
         gap: 25px;
-    }
-
-    .avatar-box {
-        border-radius: 30px;
-        /* height: 150px; */
     }
 
     .avatar-box img {
