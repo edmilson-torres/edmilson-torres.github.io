@@ -403,8 +403,8 @@ main {
 }
 
 .sidebar-info_more {
-    opacity: 0;
-    visibility: hidden;
+    opacity: 1;
+    visibility: visible;
     transition: var(--transition-2);
 }
 
