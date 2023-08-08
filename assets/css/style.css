@@ -1882,6 +1882,10 @@ textarea.form-input::-webkit-resizer {
         z-index: 1;
     }
 
+    .sidebar.active {
+        max-height: max-content;
+    }
+
     .sidebar-info {
         flex-direction: column;
     }
